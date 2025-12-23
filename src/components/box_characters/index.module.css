@@ -1,0 +1,22 @@
+.main{
+    width: 220px;
+    height: 270px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 5%;
+}
+.main .container{
+    border: 3px solid #C2922E;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main .container .h2{
+    font-size: 20px;
+    color: #c2932ee3;
+}
