@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "Dipper Pines",
+        "description": "...",
+        "image": "dipper.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Mabel Pines",
+        "description": "...",
+        "image": "mabel.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Grunkle Stan",
+        "description": "...",
+        "image": "stan.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Bill Cipher",
+        "description": "...",
+        "image": "bill.jpg"
+    }
+]
