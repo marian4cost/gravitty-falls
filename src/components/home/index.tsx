@@ -14,8 +14,8 @@ export function HomePage(){
         <main className={styles.main}>
             <div className={styles.container}>
             <h1 className={`${styles.h1} ${grandstander.className}`}>Gravitty Falls</h1>
-            <h2 className={`${styles.h2} ${grandstander.className}`}>Trust no One</h2>
-            <button className={styles.button}>Explore the mystery</button>
+            <h2 className={`${styles.h2} ${grandstander.className}`}>Não Confie em Ninguém</h2>
+            <button className={styles.button}>Explore os Mistérios</button>
         </div>
         </main>
     )
